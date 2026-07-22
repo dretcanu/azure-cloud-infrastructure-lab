@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.tmp
+*.temp
+*.log
+.env
+*.secret
+*.key
+local.settings.json
